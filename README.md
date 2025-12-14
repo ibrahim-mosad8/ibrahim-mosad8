@@ -11,20 +11,19 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👨‍💻 I'm **Ibrahim Mousad**, a Data Analyst from Cairo, Egypt
 - 📝 Experienced in **data cleaning, data analysis, and data visualization**
-- 💻 Daily tools: **Python, R, SQL, Excel, Power BI, Tableau**
+- 💻 Daily tools: **SQL, Python, R, Excel, Power BI, Tableau**
 - 📊 I build **interactive dashboards and reports** to help teams make data-driven decisions
 - 🎯 Passionate about uncovering actionable insights from complex datasets
 - 💬 Talk to me about analytics, business intelligence, supply chain, and data visualization
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="30"/> Tech & Tools:
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="SQL Server" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="55" height="55"/>
 </p>
 
 ---
