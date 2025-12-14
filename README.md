@@ -61,8 +61,14 @@ Nile Academy for Science, Egypt – Graduation: June 2025
 
 ---
 
-### 💡 Fun Fact / Quote:
-> “Data is the new oil — but only if you refine it.”  
+### 📬 Contact Me:
+<p align="center">
+<a href="mailto:ibrahimmassad463@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="30"/></a>&nbsp;
+<a href="tel:+201223565366"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="30" width="30"/></a>&nbsp;
+<a href="tel:+201040682286"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/phone.svg" alt="Phone" height="30" width="30"/></a>&nbsp;
+<a href="https://github.com/ibrahimmossad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/your_linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/></a>
+</p>
 
 ---
 
